@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in the Linguistics Program at the University of South Carolina.
+I am a Ph.D. candidate in the Linguistics Program at the University of South Carolina. My research lies at the intersection of second language acquisition and neuroscience, with a special focus on the processing of semantics and emotional prosody. 
+I am co-advised by Drs. Jiang Liu and Rutvik Desai. My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese; and examine how semantics influence the emotional prosody perception of L1 and L2 Chinese speaker; and use fMRI to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
+
 
 ## News
 
