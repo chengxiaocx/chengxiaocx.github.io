@@ -8,9 +8,9 @@ I am currently a Ph.D. candidate in the Linguisitcs Program at the University of
 
 ## News
 
-- **[July. 2023]** Our paper on emotional prosody perception differences in L1 and L2 Chinese speakers is accepted for BUCLD 48, and I recieve the Paula Menyuk Travel Award.
+- **[July. 2023]** Our abstract on emotional prosody perception differences in L1 and L2 Chinese speakers is accepted for BUCLD 48, and I recieve the Paula Menyuk Travel Award.
 - **[May. 2023]** I win the Graduate Student Poster Award at Discover USC 2023.
-- **[Febuary. 2023]** Our paper on semantic effect on emotional prosody perception is accepted for HSP36, and I recieve the HSP Student Travel Award.
+- **[Febuary. 2023]** Our abstract about semantic effect on emotional prosody perception is accepted for HSP36, and I recieve the HSP Student Travel Award.
 
 ## Grants
 - **2023-2025** National Science Foundation Doctoral Dissertation Research Improvement Grant (**NSF-DDRI**), BCS-2234914 (“Doctoral Dissertation Research: The semantic effect on the processing of emotional prosody in a tone language: A neurolinguistic study”, co-PI; PI: Jiang Liu; co-PI: Rutvik Desai), National Science Foundation, USD 17,780.
