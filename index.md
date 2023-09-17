@@ -27,18 +27,18 @@ I am currently a Ph.D. candidate in the Linguisitcs Program at the University of
 ## Teaching 
 
 - **Instructor of Record**, Linguistics Program, University of South Carolina
-- - Spring 2023			          LING 301/ENGL 389: The English Language
-- - Fall 2022			            LING 101: Introduction to Language 
+  - Spring 2023,			          LING 301/ENGL 389: The English Language
+  - Fall 2022,			            LING 101: Introduction to Language 
 - **Instructor of Record**, Department of Languages, Literatures and Cultures, University of South Carolina
-- Spring 2022			          CHIN 222: Intermediate Mandarin Chinese II
-- Fall 2022			            CHIN 221: Intermediate Mandarin Chinese I
-- Spring 2021			          CHIN 122: Basic Proficiency Mandarin Chinese
-- Fall 2020			            CHIN 121: Elementary Mandarin Chines
-- Spring 2020			          CHIN 322: Advance Mandarin Chinese II
-- Fall 2019			            CHIN 321: Advance Mandarin Chinese I
+  - Spring 2022,			          CHIN 222: Intermediate Mandarin Chinese II
+  - Fall 2022,			            CHIN 221: Intermediate Mandarin Chinese I
+  - Spring 2021,			          CHIN 122: Basic Proficiency Mandarin Chinese
+  - Fall 2020,			            CHIN 121: Elementary Mandarin Chines
+  - Spring 2020,			          CHIN 322: Advance Mandarin Chinese II
+  - Fall 2019,			            CHIN 321: Advance Mandarin Chinese I
 - **Guest Lecturer**, Linguistics Program, University of South Carolina
-- Spring 2023			          LING 300: Introduction to Language Sciences
+  - Spring 2023,			          LING 300: Introduction to Language Sciences
 - **Tutor**, International Accelerator Program, University of South Carolina
-- Fall 2019–Spring 2020		  English as a second language (ESL) Tutor
+  - Fall 2019–Spring 2020,		  English as a second language (ESL) Tutor
 
 
