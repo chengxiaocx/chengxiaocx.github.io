@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. candidate in the Linguistics Program at the University of South Carolina. My research lies at the intersection of second language acquisition and neuroscience, with a special focus on the processing of semantics and emotional prosody. I am co-advised by Drs. Jiang Liu and Rutvik Desai. 
 
-My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese, and examines how semantics influence the emotional prosody processing of L1 and L2 Chinese speakers, and uses fMRI to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
+My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese, and examines how semantics influence the emotional prosody processing of L1 and L2 Chinese speakers, and utilizes fMRI to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
 
 
 ## News
@@ -24,7 +24,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
   
 ## Publications
 
-- **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences. *Second Language Research*.
+- **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
 - Liu, J., & **Xiao, C.**(2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. 
 - **Xiao, C.**(2017). The language acquisition strategy for children with ASD. *Journal of Curriculum and Instruction*, 10, 35-37. (In Chinese)
 
