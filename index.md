@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am currently a Ph.D. candidate in the Linguisitcs Program at the University of South Carolina.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2023]** Our paper on emotional prosody perception differences in L1 and L2 Chinese speakers is accepted for BUCLD 48, and I recieve Paula Menyuk Travel Award.
+- **[May. 2023]** I win the Graduate Student Poster Award at Discover USC 2023.
+- **[Febuary. 2023]** I recieve Paula Menyuk Travel Award for the 48th Boston University Conference on Language Development (BUCLD 48).
+- **[Febuary. 2023]** Our paper on semantic effect on emotional prosody perception is accepted for HSP36, and I recieve the HSP Student Travel Award.
 
-{% include_relative _includes/publications.md %}
+## Grants
 
-{% include_relative _includes/services.md %}
+## Publications
+
+## Teaching 
+
+#{% include_relative _includes/publications.md %}
+
+
