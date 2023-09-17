@@ -30,10 +30,10 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## Teaching Experience
 
-- **Instructor of Record, Linguistics Program, University of South Carolina**
+- Instructor of Record, Linguistics Program, University of South Carolina
   - Spring 2023, LING 301/ENGL 389: The English Language
   - Fall 2022, LING 101: Introduction to Language 
-- **Instructor of Record, Department of Languages, Literatures and Cultures, University of South Carolina**
+- Instructor of Record, Department of Languages, Literatures and Cultures, University of South Carolina
   - Spring 2022, CHIN 222: Intermediate Mandarin Chinese II
   - Fall 2022, CHIN 221: Intermediate Mandarin Chinese I
   - Spring 2021, CHIN 122: Basic Proficiency Mandarin Chinese
