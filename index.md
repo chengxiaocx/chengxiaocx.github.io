@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in the Linguisitcs Program at the University of South Carolina.
+I am currently a Ph.D. candidate in the Linguistics Program at the University of South Carolina.
 
 ## News
 
