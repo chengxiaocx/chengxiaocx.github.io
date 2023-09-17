@@ -21,7 +21,7 @@ I am currently a Ph.D. candidate in the Linguisitcs Program at the University of
   
 ## Publications
 
-- **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences. Second Language Research.
+- **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences. *Second Language Research*.
 - Liu, J., & **Xiao, C.**(2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. 
 - **Xiao, C.**(2017). The language acquisition strategy for children with ASD. *Journal of Curriculum and Instruction*, 10, 35-37. (In Chinese)
 
