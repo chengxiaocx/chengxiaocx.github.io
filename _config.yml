@@ -8,7 +8,7 @@ email: cxiao@email.sc.edu
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Cheng Xiao
 description: This is Cheng's personal website
-canonical: https://chengxiaocx.github.io
+#canonical: https://chengxiaocx.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -42,9 +42,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
