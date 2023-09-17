@@ -18,6 +18,5 @@ I am currently a Ph.D. candidate in the Linguisitcs Program at the University of
 
 ## Teaching 
 
-#{% include_relative _includes/publications.md %}
 
 
