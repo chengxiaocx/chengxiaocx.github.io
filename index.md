@@ -18,7 +18,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
 ## Grants
 
 - **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, BCS-2234914 ("Doctoral Dissertation Research: The semantic effect on the processing of emotional prosody in a tone language: A neurolinguistic study"), co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
-- **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal # 120700-22-59283 ("Bridging meaning and sound: The effects of semantics on emotional prosody processing in Mandarin Chinese words and sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
+- **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283 ("Bridging meaning and sound: The effects of semantics on emotional prosody processing in Mandarin Chinese words and sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
 - **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN121: Elementary Mandarin Chinese), USD 400.
 - **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN321: Advance Mandarin Chinese), USD 400.
   
@@ -30,17 +30,17 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## Teaching Experience
 
-- **Instructor of Record, Linguistics Program,** University of South Carolina
+- **Instructor of Record, Linguistics Program**, University of South Carolina
   - Spring 2023, LING 301/ENGL 389: The English Language
   - Fall 2022, LING 101: Introduction to Language 
-- **Instructor of Record, Department of Languages, Literatures and Cultures,** University of South Carolina
+- **Instructor of Record, Department of Languages, Literatures and Cultures**, University of South Carolina
   - Spring 2022, CHIN 222: Intermediate Mandarin Chinese II
   - Fall 2022, CHIN 221: Intermediate Mandarin Chinese I
   - Spring 2021, CHIN 122: Basic Proficiency Mandarin Chinese
   - Fall 2020, CHIN 121: Elementary Mandarin Chines
   - Spring 2020, CHIN 322: Advance Mandarin Chinese II
   - Fall 2019, CHIN 321: Advance Mandarin Chinese I
-- **Guest Lecturer, Linguistics Program,** University of South Carolina
+- **Guest Lecturer, Linguistics Program**, University of South Carolina
   - Spring 2023, LING 300: Introduction to Language Sciences
-- **Tutor, International Accelerator Program,** University of South Carolina
+- **Tutor, International Accelerator Program**, University of South Carolina
   - Fall 2019–Spring 2020, English as a second language (ESL) Tutor
