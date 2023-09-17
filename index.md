@@ -11,9 +11,9 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## News
 
-- **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers is accepted for BUCLD 48, and I receive the Paula Menyuk Travel Award.
-- **[May, 2023]** I win the Graduate Student Poster Award at Discover USC 2023.
-- **[Febuary, 2023]** Our abstract about semantic effect on emotional prosody perception is accepted for HSP 36, and I receive the HSP Student Travel Award.
+- **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for BUCLD 48, and I received the Paula Menyuk Travel Award.
+- **[May, 2023]** I won the Graduate Student Poster Award at Discover USC 2023.
+- **[Febuary, 2023]** Our abstract about semantic effect on emotional prosody perception has been accepted for HSP 36, and I received the HSP Student Travel Award.
 
 ## Grants
 
