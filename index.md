@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in the [Linguistics Program]((https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the University of South Carolina. My research lies at the intersection of second language acquisition and cognitive neuroscience, with a focus on the processing of semantics and emotional prosody. I am co-advised by Drs. [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php) and [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php). 
+I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the University of South Carolina. My research lies at the intersection of second language acquisition and cognitive neuroscience, with a focus on the processing of semantics and emotional prosody. I am co-advised by Drs. [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php) and [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php). 
 
 My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese, and examines how semantics influence the emotional prosody processing of L1 and L2 Chinese speakers, and utilizes fMRI to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
 
@@ -18,7 +18,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## Grants
 
-- **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, [BCS-2234914] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false)("Doctoral Dissertation Research: The semantic effect on the processing of emotional prosody in a tone language: A neurolinguistic study"), co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
+- **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, [BCS-2234914](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false) ("Doctoral Dissertation Research: The semantic effect on the processing of emotional prosody in a tone language: A neurolinguistic study"), co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
 - **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283 ("Bridging meaning and sound: The effects of semantics on emotional prosody processing in Mandarin Chinese words and sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
 - **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN121: Elementary Mandarin Chinese), USD 400.
 - **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN321: Advance Mandarin Chinese), USD 400.
