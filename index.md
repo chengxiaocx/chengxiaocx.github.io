@@ -11,6 +11,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## News
 
+- **[December, 2023]** I have been invited for a talk at the special session on second language acquisition for [LCUGA 2024](https://www.linguistics.uga.edu/lcuga-2024).
 - **[October, 2023]** Our abstract about semantic congruence effects on emotional prosody perception has been accepted for [FPM 2023](https://lin.ufl.edu/florida-psycholinguistics-meeting-2023/).
 - **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for [BUCLD 48](https://www.bu.edu/bucld/), and I received the Paula Menyuk Travel Award.
 - **[May, 2023]** I won the Graduate Student Poster Award at [Discover USC 2023](https://sc.edu/about/signature_events/discover_uofsc/index.php).
