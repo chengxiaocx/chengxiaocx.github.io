@@ -11,7 +11,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## News
 
-- **[February, 2024]** A new co-authored paper on English prosodic focus marking has been published online in the [Journal of Speech, Language, and Hearing Research](https://doi.org/10.1044/2023_JSLHR-23-00508).
+- **[February, 2024]** A new co-authored paper on English prosodic focus marking has been published online in the [*Journal of Speech, Language, and Hearing Research*](https://doi.org/10.1044/2023_JSLHR-23-00508).
 - **[December, 2023]** I have been invited for a talk at the special session on second language acquisition for [LCUGA 2024](https://www.linguistics.uga.edu/lcuga-2024).
 - **[October, 2023]** Our abstract about semantic congruence effects on emotional prosody perception has been accepted for [FPM 2023](https://lin.ufl.edu/florida-psycholinguistics-meeting-2023/).
 - **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for [BUCLD 48](https://www.bu.edu/bucld/), and I received the Paula Menyuk Travel Award.
