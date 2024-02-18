@@ -29,8 +29,8 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 - **Xiao, C.**, & Liu, J. (*under review*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers.
 - **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
-- Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research*, 1-20. (https://doi.org/10.1044/2023_JSLHR-23-00508)
-- Liu, J., & **Xiao, C.**(2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
+- Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research*, 1-20. [(https://doi.org/10.1044/2023_JSLHR-23-00508)]
+- Liu, J., & **Xiao, C.**(2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [(https://doi.org/10.1007/978-981-15-3809-4_6)]
 - **Xiao, C.**(2017). The language acquisition strategy for children with ASD. *Journal of Curriculum and Instruction*, 10, 35-37. (In Chinese)
 
 ## Teaching Experience
