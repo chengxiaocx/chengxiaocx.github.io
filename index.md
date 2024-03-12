@@ -8,15 +8,14 @@ I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/college
 
 My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese, and examines how semantics influence the emotional prosody processing of L1 and L2 Chinese speakers, and utilizes [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
 
-
 ## News
 
+**[March, 2023]** Our abstract comparing emotional prosody perception in novice and advanced L2 Chinese learners has been accepted for [HSP 37](https://hsp2024.github.io).
 - **[February, 2024]** A co-authored paper on English prosodic focus marking has been published in the [*Journal of Speech, Language, and Hearing Research*](https://doi.org/10.1044/2023_JSLHR-23-00508).
 - **[December, 2023]** I have been invited for a talk at the special session on second language acquisition for [LCUGA 2024](https://www.linguistics.uga.edu/lcuga-2024).
 - **[October, 2023]** Our abstract about semantic congruence effects on emotional prosody perception has been accepted for [FPM 2023](https://lin.ufl.edu/florida-psycholinguistics-meeting-2023/).
 - **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for [BUCLD 48](https://www.bu.edu/bucld/), and I received the Paula Menyuk Travel Award.
 - **[May, 2023]** I won the Graduate Student Poster Award at [Discover USC 2023](https://sc.edu/about/signature_events/discover_uofsc/index.php).
-- **[Febuary, 2023]** Our abstract about semantic effect on emotional prosody perception has been accepted for [HSP 36](https://lrdc.pitt.edu/HSP2023/), and I received the HSP Student Travel Award.
 
 ## Grants
 
@@ -27,7 +26,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
   
 ## Publications
 
-- **Xiao, C.**, & Liu, J. (*under review*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers.
+- **Xiao, C.**, & Liu, J. (*in revision*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers.
 - **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research*, 1-20. [link](https://doi.org/10.1044/2023_JSLHR-23-00508)
 - Liu, J., & **Xiao, C.**(2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [link](https://doi.org/10.1007/978-981-15-3809-4_6)
