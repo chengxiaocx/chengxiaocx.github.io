@@ -8,14 +8,13 @@ email: cxiao@email.sc.edu
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Cheng Xiao, emotional prosody, psycholinguistics, fMRI.
 description: This is Cheng's personal website
-#canonical: https://chengxiaocx.github.io
+canonical: https://chengxiaocx.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 #google_scholar: https://scholar.google.com/
 cv_link: ./assets/Xiao.pdf
 github_link: https://github.com/chengxiaocx
-ORCID_link: https://orcid.org/0000-0001-5057-9143
 #linkedin: https://www.linkedin.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
