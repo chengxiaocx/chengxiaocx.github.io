@@ -27,6 +27,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
   
 ## Publications
 
+- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (in preparation). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
 - **Xiao, C.**, & Liu, J. (*in revision*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers.
 - **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [link](https://doi.org/10.1044/2023_JSLHR-23-00508)
