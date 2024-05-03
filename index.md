@@ -15,8 +15,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
 - **[February, 2024]** A co-authored paper on English prosodic focus marking has been published in the [Journal of Speech, Language, and Hearing Research](https://doi.org/10.1044/2023_JSLHR-23-00508).
 - **[December, 2023]** I have been invited for a talk at the special session on second language acquisition for [LCUGA 2024](https://www.linguistics.uga.edu/lcuga-2024).
 - **[October, 2023]** Our abstract about semantic congruence effects on emotional prosody perception has been accepted for [FPM 2023](https://lin.ufl.edu/florida-psycholinguistics-meeting-2023/).
-- **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for [BUCLD 48](https://www.bu.edu/bucld/), and I received the Paula Menyuk Travel Award.
-- **[May, 2023]** I won the Graduate Student Poster Award at [Discover USC 2023](https://sc.edu/about/signature_events/discover_uofsc/index.php).
+- **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for BUCLD 48, and I received the Paula Menyuk Travel Award.
 
 ## Grants
 
@@ -27,7 +26,8 @@ My dissertation investigates how native and non-native speakers perceive emotion
   
 ## Publications
 
-- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (in preparation). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
+- **Xiao, C.**, Arheix-Parras, S., Desai, R.H. (in preparation). Semantic neighborhood effects with anterior temporal lobe stimulation.
+- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (in preparation). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [OSF preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
 - **Xiao, C.**, & Liu, J. (*in revision*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers.
 - **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
