@@ -4,15 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu). My research lies at the intersection of second language acquisition and cognitive neuroscience, with a focus on the processing of semantics and emotional prosody. I am co-advised by Drs. [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php) and [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), and I am a graduate research assistant in the [Desai Lab](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/labs/desai_lab/index.php/).
+I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu). My research lies at the intersection of second language acquisition and cognitive neuroscience, with a focus on the processing of semantics and emotional prosody. I am co-advised by Drs. [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php) and [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php). I am currently a graduate research assistant in the [Desai Lab](https://sc.edu/study/colleges_schools/artsandsciences/psychology/research_clinical_facilities/labs/desai_lab/index.php/).
 
-My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese, and examines how semantics influence the emotional prosody processing of L1 and L2 Chinese speakers, and utilizes [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
+My dissertation investigates how native and non-native speakers perceive emotional prosody in a tonal language—Mandarin Chinese, and examines how semantics influence the emotional prosody processing of L1 and L2 Chinese speakers. I also utilize [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) to elucidate whether native speakers and L2 learners use similar brain mechanisms to process semantics and emotional prosody in Mandarin Chinese words and sentences. 
 
 ## News
 
+- **[June, 2024]** My first-authored paper examining the semantic effects on emotional prosody perception has been accepted in the *Cognition and Emotion*.
 - **[March, 2024]** I have been awarded the [Dr. Richard Walker Memorial Endowed Fellowship](https://sc.edu/study/colleges_schools/artsandsciences/walker_institute/research/student_scholarships_and_grants/index.php).
 - **[March, 2024]** Our abstract comparing [emotional prosody perception in novice and advanced L2 Chinese learners](https://osf.io/dwv32/) has been accepted for [HSP 37](https://hsp2024.github.io).
-- **[February, 2024]** A co-authored paper on English prosodic focus marking has been published in the [Journal of Speech, Language, and Hearing Research](https://doi.org/10.1044/2023_JSLHR-23-00508).
+- **[February, 2024]** A co-authored paper on English prosodic focus marking has been published in the [*Journal of Speech, Language, and Hearing Research*](https://doi.org/10.1044/2023_JSLHR-23-00508).
 - **[December, 2023]** I have been invited for a talk at the special session on second language acquisition for [LCUGA 2024](https://www.linguistics.uga.edu/lcuga-2024).
 - **[October, 2023]** Our abstract about semantic congruence effects on emotional prosody perception has been accepted for [FPM 2023](https://lin.ufl.edu/florida-psycholinguistics-meeting-2023/).
 - **[July, 2023]** Our abstract comparing the semantic effects on emotional prosody perception in L1 and L2 speakers has been accepted for BUCLD 48, and I received the Paula Menyuk Travel Award.
@@ -26,10 +27,10 @@ My dissertation investigates how native and non-native speakers perceive emotion
   
 ## Publications
 
-- **Xiao, C.**, Arheix-Parras, S., Desai, R.H. (in preparation). Semantic neighborhood effects with anterior temporal lobe stimulation.
-- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (in preparation). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
-- **Xiao, C.**, & Liu, J. (*in revision*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers.
+- **Xiao, C.**, Arheix-Parras, S., Johari, K., Riccardi, N., Desai, R.H. (*in preparation*). Semantic neighborhood effects with anterior temporal lobe stimulation.
+- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*in preparation*). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
 - **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
+- **Xiao, C.**, & Liu, J. (*accepted*). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers. *Cognition and Emotion*.
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
 - Liu, J., & **Xiao, C.**(2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
 
