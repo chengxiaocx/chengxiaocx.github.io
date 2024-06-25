@@ -27,7 +27,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
   
 ## Publications
 
-- **Xiao, C.**, & Liu, J. (accepted). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers. &nbsp;&nbsp;*Cognition and Emotion*.
+- **Xiao, C.**, & Liu, J. (accepted). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers. &nbsp;&nbsp;&nbsp;&nbsp;*Cognition and Emotion*.
 - **Xiao, C.**, Arheix-Parras, S., Johari, K., Riccardi, N., Desai, R.H. (*in preparation*). Semantic neighborhood effects with anterior temporal lobe stimulation.
 - **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*in preparation*). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
 - **Xiao, C.**, & Liu, J. (*in revision*). The perception of emotional prosody in Mandarin Chinese words and sentences.
