@@ -10,7 +10,6 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## News
 
-- **[August, 2024]** My first-authored paper on emotional prosody perception in Mandarin Chinese words and sentences has been accepted for publication in *Second Language Research*.
 - **[July, 2024]** Our abstract on semantic neighborhood effects with ATL stimulation has been accepted for [SNL 2024](https://www.neurolang.org/2024/).
 - **[July, 2024]** My first-authored paper examining semantic effects on the perception of emotional prosody in native and non-native Chinese speakers has been published in the special issue of [*Cognition and Emotion*](https://doi.org/10.1080/02699931.2024.2371088) on the interplay between language and emotion.
 - **[March, 2024]** I have been awarded the [Dr. Richard Walker Memorial Endowed Fellowship](https://sc.edu/study/colleges_schools/artsandsciences/walker_institute/research/student_scholarships_and_grants/index.php).
@@ -28,7 +27,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
   
 ## Publications
 
-- **Xiao, C.**, & Liu, J. (accepted). The perception of emotional prosody in Mandarin Chinese words and sentences. *Second Language Research*.
+- **Xiao, C.**, & Liu, J. (conditionally accepted). The perception of emotional prosody in Mandarin Chinese words and sentences. *Second Language Research*.
 - **Xiao, C.**, & Liu, J. (2024). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers. *Cognition and Emotion*. 1-11. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf)
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
 - Liu, J., & **Xiao, C.** (2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
