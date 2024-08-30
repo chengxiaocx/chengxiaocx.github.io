@@ -10,7 +10,7 @@ My dissertation investigates how native and non-native speakers perceive emotion
 
 ## News
 
-- **[August, 2024]** My first-authored paper on emotional prosody perception in Mandarin Chinese words and sentences has been accepted for publication in [*Second Language Research*](https://journals.sagepub.com/home/SLR)).
+- **[August, 2024]** My first-authored paper on emotional prosody perception in Mandarin Chinese words and sentences has been accepted for publication in [*Second Language Research*](https://journals.sagepub.com/home/SLR).
 - **[July, 2024]** Our abstract on semantic neighborhood effects with ATL stimulation has been accepted for [SNL 2024](https://www.neurolang.org/2024/).
 - **[July, 2024]** My first-authored paper examining semantic effects on the perception of emotional prosody in native and non-native Chinese speakers has been published in the special issue of [*Cognition and Emotion*](https://doi.org/10.1080/02699931.2024.2371088) on the interplay between language and emotion.
 - **[March, 2024]** I have been awarded the [Dr. Richard Walker Memorial Endowed Fellowship](https://sc.edu/study/colleges_schools/artsandsciences/walker_institute/research/student_scholarships_and_grants/index.php).
