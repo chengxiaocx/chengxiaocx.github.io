@@ -8,7 +8,7 @@ I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/college
 
 My dissertation investigates how native and non-native speakers perceive and process emotional information through semantics and prosody in a tonal language——Mandarin Chinese, and examines how semantics influences their perception of emotional prosody. I also utilize [functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) to explore whether native speakers and non-native speakers use similar brain mechanisms to process semantics and emotional prosody in speech. 
 
-I am currently on the job market.
+I am currently on the job market in the academic year of 2024-2025.
 
 ## News
 
