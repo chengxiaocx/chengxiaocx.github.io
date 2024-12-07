@@ -50,6 +50,7 @@ I am currently on the job market in the academic year of 2024-2025.
   - Spring 2020, CHIN 322: Advance Mandarin Chinese II
   - Fall 2019, CHIN 321: Advance Mandarin Chinese I
 - **Guest Lecturer, Linguistics Program**, University of South Carolina
+  - Fall 2024, LING 474/PSYC 474: Cognitive and Social Aspects of Bilingualism
   - Spring 2023, LING 300: Introduction to Language Sciences
 - **Tutor, International Accelerator Program**, University of South Carolina
   - Fall 2019—Spring 2020, English as a second language (ESL) Tutor
