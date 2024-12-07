@@ -35,7 +35,7 @@ I am currently on the job market in the academic year of 2024-2025.
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
 - Liu, J., & **Xiao, C.** (2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
 - **Xiao, C.**, Arheix-Parras, S., Johari, K., Riccardi, N., Desai, R.H. (*in preparation*). Semantic neighborhood effects with anterior temporal lobe stimulation.
-- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*to be submitted*). Knowing is feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
+- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*to be submitted*). Knowing and feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
 
 ## Teaching Experience
 
