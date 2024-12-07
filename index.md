@@ -53,4 +53,4 @@ I am currently on the job market in the academic year of 2024-2025.
   - Fall 2024, LING 474/PSYC 474: Cognitive and Social Aspects of Bilingualism
   - Spring 2023, LING 300: Introduction to Language Sciences
 - **Tutor, International Accelerator Program**, University of South Carolina
-  - Fall 2019—Spring 2020, English as a second language (ESL) Tutor
+  - 2019-2020, English as a second language (ESL) Tutor
