@@ -52,6 +52,6 @@ My dissertation investigates how native and non-native speakers perceive and pro
   - Fall 2019, CHIN 321: Advance Mandarin Chinese I
 - **Guest Lecturer, Linguistics Program**, University of South Carolina
   - Fall 2024, LING 474/PSYC 474: Cognitive and Social Aspects of Bilingualism
-  - Spring 2023, LING 300: Introduction to Language Sciences
+  - Spring 2023, LING 300/PSYC 300: Introduction to Language Sciences
 - **Tutor, International Accelerator Program**, University of South Carolina
   - 2019-2020, English as a second language (ESL) Tutor
