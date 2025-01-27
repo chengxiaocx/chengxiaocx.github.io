@@ -8,17 +8,16 @@ I am a Ph.D. candidate in the [Linguistics Program](https://sc.edu/study/college
 
 My dissertation investigates how native and non-native speakers perceive and process emotional information through semantics and prosody in a tonal language——Mandarin Chinese, and examines how semantics influences their perception of emotional prosody. I also utilize [functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) to explore whether native speakers and non-native speakers use similar brain mechanisms to process semantics and emotional prosody in speech. 
 
-I am currently on the job market in the academic year of 2024-2025.
 
 ## News
 
+- **[Jan, 2025]** Our abstract on the neural processing of emotional prosody in native and non-native Chinese speakers has been accepted for [HSP 38](https://hsp2025.github.io).
 - **[Oct, 2024]** My first-authored paper on emotional prosody perception in Mandarin Chinese words and sentences has been published in [*Second Language Research*](https://doi.org/10.1177/02676583241286748).
 - **[July, 2024]** Our abstract on semantic neighborhood effects with ATL stimulation has been accepted for [SNL 2024](https://www.neurolang.org/2024/).
 - **[July, 2024]** My first-authored paper examining semantic effects on the perception of emotional prosody in native and non-native Chinese speakers has been published in the special issue of [*Cognition and Emotion*](https://doi.org/10.1080/02699931.2024.2371088) on the interplay between language and emotion.
 - **[March, 2024]** I have been awarded the [Dr. Richard Walker Memorial Endowed Fellowship](https://sc.edu/study/colleges_schools/artsandsciences/walker_institute/research/student_scholarships_and_grants/index.php).
 - **[March, 2024]** Our abstract comparing [emotional prosody perception in novice and advanced L2 Chinese learners](https://osf.io/dwv32/) has been accepted for [HSP 37](https://hsp2024.github.io).
 - **[February, 2024]** A co-authored paper on English prosodic focus marking has been published in [*Journal of Speech, Language, and Hearing Research*](https://doi.org/10.1044/2023_JSLHR-23-00508).
-- **[December, 2023]** I have been invited for a talk at the special session on second language acquisition for [LCUGA 2024](https://www.linguistics.uga.edu/lcuga-2024).
 
 
 ## Grants
@@ -27,6 +26,7 @@ I am currently on the job market in the academic year of 2024-2025.
 - **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283 ("Bridging meaning and sound: The effects of semantics on emotional prosody processing in Mandarin Chinese words and sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
 - **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN121: Elementary Mandarin Chinese), USD 400.
 - **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN321: Advance Mandarin Chinese), USD 400.
+
   
 ## Publications
 
@@ -36,7 +36,6 @@ I am currently on the job market in the academic year of 2024-2025.
 - **Xiao, C.**, & Liu, J. (2024a). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers. *Cognition and Emotion*. 1-11. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf)
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
 - Liu, J., & **Xiao, C.** (2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
-
 
 
 ## Teaching Experience
