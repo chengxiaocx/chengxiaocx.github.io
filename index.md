@@ -28,12 +28,12 @@ My dissertation investigates how native and non-native speakers perceive and pro
   
 ## Publications
 
-- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*under review*). Knowing and feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
-- Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (submitted). The role of the Anterior Temporal Lobe in reading: an HD-tDCS study. 
 - **Xiao, C.**, & Liu, J. (2024b). The perception of emotional prosody in Mandarin Chinese words and sentences. *Second Language Research*. 1-28. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf)
 - **Xiao, C.**, & Liu, J. (2024a). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers. *Cognition and Emotion*. 1-11. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf)
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
 - Liu, J., & **Xiao, C.** (2021). Tone category learning should serve tone word learning: an experiment of integrating pronunciation teaching in L2 Chinese curriculum. In Edited Volume *The acquisition of Chinese as a second language pronunciation: Segments and prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
+- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*under review*). Knowing and feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
+- Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (submitted). The role of the Anterior Temporal Lobe in reading: an HD-tDCS study. 
 - **Xiao, C.**, Arheix-Parras, S., Johari, K., Riccardi, N., Desai, R.H. (*in preparation*). Effects of thematic and taxonomic semantic neighbors in anterior temporal lobe stimulation.
 
 
