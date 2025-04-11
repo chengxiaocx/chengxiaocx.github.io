@@ -16,8 +16,6 @@ My dissertation investigates how native and non-native speakers perceive and pro
 - **[July, 2024]** Our abstract on semantic neighborhood effects with ATL stimulation has been accepted for [SNL 2024](https://www.neurolang.org/2024/).
 - **[July, 2024]** My first-authored paper examining semantic effects on the perception of emotional prosody in native and non-native Chinese speakers has been published in the special issue of [*Cognition and Emotion*](https://doi.org/10.1080/02699931.2024.2371088) on the interplay between language and emotion.
 - **[March, 2024]** I have been awarded the [Dr. Richard Walker Memorial Endowed Fellowship](https://sc.edu/study/colleges_schools/artsandsciences/walker_institute/research/student_scholarships_and_grants/index.php).
-- **[March, 2024]** Our abstract comparing [emotional prosody perception in novice and advanced L2 Chinese learners](https://osf.io/dwv32/) has been accepted for [HSP 37](https://hsp2024.github.io).
-- **[February, 2024]** A co-authored paper on English prosodic focus marking has been published in [*Journal of Speech, Language, and Hearing Research*](https://doi.org/10.1044/2023_JSLHR-23-00508).
 
 
 ## Grants
@@ -30,7 +28,8 @@ My dissertation investigates how native and non-native speakers perceive and pro
   
 ## Publications
 
-- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*submitted*). Knowing and feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
+- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*under review*). Knowing and feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
+- Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (submitted). The role of the Anterior Temporal Lobe in reading: an HD-tDCS study. 
 - **Xiao, C.**, & Liu, J. (2024b). The perception of emotional prosody in Mandarin Chinese words and sentences. *Second Language Research*. 1-28. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf)
 - **Xiao, C.**, & Liu, J. (2024a). Semantic effects on the perception of emotional prosody in native and non-native Chinese speakers. *Cognition and Emotion*. 1-11. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf)
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
