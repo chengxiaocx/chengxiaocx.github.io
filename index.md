@@ -35,6 +35,7 @@ My dissertation investigates how native and non-native speakers perceive and pro
 - **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*under review*). Knowing and feeling: The role of semantic valence in emotional prosody perception for L2 Chinese learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
 - Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (submitted). The role of the Anterior Temporal Lobe in reading: an HD-tDCS study. 
 - **Xiao, C.**, Arheix-Parras, S., Johari, K., Riccardi, N., Desai, R.H. (*in preparation*). Effects of thematic and taxonomic semantic neighbors in anterior temporal lobe stimulation.
+- Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (in preparation). Psycholinguistic constructs underlying words in naturalistic listening. 
 
 
 ## Teaching Experience
