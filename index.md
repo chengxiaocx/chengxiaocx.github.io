@@ -30,10 +30,10 @@ My dissertation investigates how native speakers and L2 learners perceive emotio
 
 ## Grants
 
-- **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, [BCS-2234914](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false) ("Doctoral Dissertation Research: The Semantic Effect on the Processing of Emotional Prosody in a Tone Language: A Neurolinguistic Study"), co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
-- **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283 ("Bridging Meaning and Sound: The Effects of Semantics on Emotional Prosody Processing in Mandarin Chinese Words and Sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN121: Elementary Mandarin Chinese), USD 400.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN321: Advance Mandarin Chinese), USD 400.
+- **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, [BCS-2234914](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false),*Doctoral Dissertation Research: The Semantic Effect on the Processing of Emotional Prosody in a Tone Language: A Neurolinguistic Study*, co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
+- **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283, *Bridging Meaning and Sound: The Effects of Semantics on Emotional Prosody Processing in Mandarin Chinese Words and Sentences*, PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
+- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant**, for course enrichment of CHIN121: Elementary Mandarin Chinese, USD 400.
+- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant**, for course enrichment of CHIN321: Advance Mandarin Chinese, USD 400.
 
   
 ## Teaching Experience
