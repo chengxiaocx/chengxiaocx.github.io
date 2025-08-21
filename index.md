@@ -11,9 +11,8 @@ My dissertation investigates how native speakers and L2 learners perceive emotio
 ## News
 
 - **[Aug, 2025]** Our abstract on word naming with ATL stimulation has been accepted for [SNL 2025](https://2025.neurolang.org).
-- **[Feb, 2025]** Our abstract on the neural processing of emotional prosody in native and non-native Chinese speakers has been accepted for [HSP 38](https://hsp2025.github.io) and I received the Gratudate Student Travel Support.
+- **[Feb, 2025]** I received travel fund to present my poster on the neural processing of emotional prosody in native and non-native Chinese speakers at [HSP 38](https://hsp2025.github.io) .
 - **[Oct, 2024]** My first-authored paper on emotional prosody perception in Mandarin Chinese words and sentences has been published in [*Second Language Research*](https://doi.org/10.1177/02676583241286748).
-- **[July, 2024]** Our abstract on semantic neighborhood effects with ATL stimulation has been accepted for [SNL 2024](https://www.neurolang.org/2024/).
 - **[July, 2024]** My first-authored paper examining semantic effects on the perception of emotional prosody in native and non-native Chinese speakers has been published in the special issue of [*Cognition and Emotion*](https://doi.org/10.1080/02699931.2024.2371088) on the interplay between language and emotion.
 
 
