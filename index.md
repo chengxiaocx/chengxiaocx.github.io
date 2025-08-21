@@ -6,26 +6,17 @@ layout: homepage
 
 I am a Ph.D. candidate in the [Linguistics](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu). My research bridges formal linguistics and cognitive neuroscience, employing experimental methods, functional Magnetic Resonance Imaging (fMRI), and High-Definition transcranial Direct Current Stimulation (HD-tDCS) to investigate language and emotion processing in native speakers and second-language (L2) learners. I am co-advised by Drs. [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php) and [Rutvik H. Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php). I am currently a Graduate Research Assistant in the [Aging Brain Cohort (ABC)](https://abc.sc.edu).
 
-My dissertation investigates how native speakers and L2 learners perceive emotional cues through semantic and prosodic channels in Mandarin Chinese words and sentences. In this tonal language, the same acoustic feature (i.e., pitch) encodes both semantics and emotional prosody. To elucidate the neural underpinnings of these processes, I use fMRI to examine whether native speakers and L2 learners engage similar cognitive mechanisms when processing semantics and emotional prosody in spoken language. 
-
+My dissertation investigates how native speakers and L2 learners perceive emotional cues through semantic and prosodic channels in Mandarin Chinese words and sentences. In this tonal language, the same acoustic feature (i.e., pitch) encodes both semantics and emotional prosody. To elucidate the neural underpinnings of these processes, I use fMRI to examine whether native speakers and L2 learners engage similar cognitive mechanisms when processing semantics and emotional prosody in spoken language. This work is supported by [NSF Doctoral Dissertation Research Improvement Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false), University of South Carolina SPARC Graduate Research Grant, and Dr. Richard Walker Memorial Endowed Fellowship.
 
 ## News
 
+- **[Aug, 2025]** Our abstract on word naming with ATL stimulation has been accepted for [SNL 2025](https://2025.neurolang.org).
 - **[Feb, 2025]** Our abstract on the neural processing of emotional prosody in native and non-native Chinese speakers has been accepted for [HSP 38](https://hsp2025.github.io) and I received the Gratudate Student Travel Support.
 - **[Oct, 2024]** My first-authored paper on emotional prosody perception in Mandarin Chinese words and sentences has been published in [*Second Language Research*](https://doi.org/10.1177/02676583241286748).
 - **[July, 2024]** Our abstract on semantic neighborhood effects with ATL stimulation has been accepted for [SNL 2024](https://www.neurolang.org/2024/).
 - **[July, 2024]** My first-authored paper examining semantic effects on the perception of emotional prosody in native and non-native Chinese speakers has been published in the special issue of [*Cognition and Emotion*](https://doi.org/10.1080/02699931.2024.2371088) on the interplay between language and emotion.
-- **[March, 2024]** I have been awarded the [Dr. Richard Walker Memorial Endowed Fellowship](https://sc.edu/study/colleges_schools/artsandsciences/walker_institute/research/student_scholarships_and_grants/index.php).
 
 
-## Grants
-
-- **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, [BCS-2234914](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false) ("Doctoral Dissertation Research: The semantic effect on the processing of emotional prosody in a tone language: A neurolinguistic study"), co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
-- **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283 ("Bridging meaning and sound: The effects of semantics on emotional prosody processing in Mandarin Chinese words and sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN121: Elementary Mandarin Chinese), USD 400.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN321: Advance Mandarin Chinese), USD 400.
-
-  
 ## Publications
 
 - **Xiao, C.**, & Liu, J. (2024b). The Perception of Emotional Prosody in Mandarin Chinese Words and Sentences. *Second Language Research*. 1-28. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf)
@@ -38,6 +29,14 @@ My dissertation investigates how native speakers and L2 learners perceive emotio
 - Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*manuscript available upon request*). Psycholinguistic Constructs Underlying Words in Naturalistic Listening. 
 
 
+## Grants
+
+- **2023-2025**, **National Science Foundation Doctoral Dissertation Research Improvement Grant (NSF-DDRIG)**, [BCS-2234914](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false) ("Doctoral Dissertation Research: The semantic effect on the processing of emotional prosody in a tone language: A neurolinguistic study"), co-PI,  PI: Jiang Liu, co-PI: Rutvik Desai, USD 17,780.
+- **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, Proposal #120700-22-59283 ("Bridging meaning and sound: The effects of semantics on emotional prosody processing in Mandarin Chinese words and sentences"), PI, mentors: Jiang Liu, Rutvik Desai, USD 4,938.
+- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN121: Elementary Mandarin Chinese), USD 400.
+- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant** (for course enrichment of CHIN321: Advance Mandarin Chinese), USD 400.
+
+  
 ## Teaching Experience
 
 - **Instructor of Record, Linguistics Program**, University of South Carolina
