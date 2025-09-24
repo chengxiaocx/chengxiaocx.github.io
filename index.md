@@ -24,7 +24,7 @@ My dissertation investigates how native speakers and L2 learners perceive emotio
 - Liu, J., & **Xiao, C.** (2021). Tone Category Learning Should Serve Tone Word Learning: An Experiment of Integrating Pronunciation Teaching in L2 Chinese Curriculum. In Edited Volume *The Acquisition of Chinese as a Second Language Pronunciation: Segments and Prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
 - **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*in revision*). Knowing and Feeling: The Role of Semantic Valence in Emotional Prosody Perception for L2 Chinese Learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
 - Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (*in revision*). The Role of the Anterior Temporal Lobe in Reading: an HD-tDCS Study. 
-- **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (*to be submitted*). The Effects of Thematic and Taxonomic Semantic Neighbors in Anterior Temporal Lobe Stimulation.
+- **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (*submitted*). Thematic and Taxonomic Semantic Neighborhoods are Affected by Anterior Temporal Stimulation.
 - Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*manuscript available upon request*). Psycholinguistic Constructs Underlying Words in Naturalistic Listening. 
 
 
