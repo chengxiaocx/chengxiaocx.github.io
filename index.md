@@ -29,8 +29,6 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 
 - **2023-2025**, **NSF Doctoral Dissertation Research Improvement Grant**, [*The Semantic Effect on the Processing of Emotional Prosody in a Tone Language: A Neurolinguistic Study*](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234914&HistoricalAwards=false), USD 17,780.
 - **2022-2023**, **University of South Carolina SPARC Graduate Research Grant**, *Bridging Meaning and Sound: The Effects of Semantics on Emotional Prosody Processing in Mandarin Chinese Words and Sentences*, USD 4,938.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant**, for course enrichment of CHIN121: Elementary Mandarin Chinese, USD 400.
-- **2020-2021**, **University of South Carolina Graduate Teaching Resource Development Grant**, for course enrichment of CHIN321: Advance Mandarin Chinese, USD 400.
 
   
 ## Teaching Experience
