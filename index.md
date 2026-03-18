@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.github.io) in the Department of Psychology at the University of South Carolina. At Feilong Lab, she uses computational methods and neuroimaging data to study individual differences in language processing and learning. Her broader research investigates how language and emotion interact in native speakers and second language learners. Cheng holds a PhD in Linguistics from the University of South Carolina, an MA in Linguistics and Applied Linguistics, a BA in Humanities, and a BEc in Finance from Wuhan University.
+Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.github.io) in the Department of Psychology at the University of South Carolina. At Feilong Lab, she uses computational methods and neuroimaging data to study individual differences in language processing and learning. Her broader research investigates how language and emotion interact in native speakers and second language learners, with a focus on prosody. Cheng holds a PhD in Linguistics from the University of South Carolina, an MA in Linguistics and Applied Linguistics, a BA in Humanities, and a BEc in Finance from Wuhan University.
 
 
 ## News
 
-- **[March, 2026]**, Our paper on the role of the Anterior Temporal Lobe in reading has been accepted in *Neurobiology of Language*.
-- **[October, 2025]**, I have successufully defended my doctoral dissertation "The Processing of Emotional Prosody and Semantics in Native and Non-native Chinese Speakers" under the supervision of [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php), [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), [Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php), and [Svetlana Shinkareva](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shinkareva_svetlana.php).
+- **[Mar. 2026]**, Our paper on the role of the Anterior Temporal Lobe in reading has been accepted in *Neurobiology of Language*.
+- **[Oct. 2025]**, I have successufully defended my doctoral dissertation "The Processing of Emotional Prosody and Semantics in Native and Non-native Chinese Speakers" under the supervision of [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php), [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), [Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php), and [Svetlana Shinkareva](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shinkareva_svetlana.php).
 
 
 ## Publications
