@@ -22,7 +22,7 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 - Liu, J., & **Xiao, C.** (2021). Tone Category Learning Should Serve Tone Word Learning: An Experiment of Integrating Pronunciation Teaching in L2 Chinese Curriculum. In Edited Volume *The Acquisition of Chinese as a Second Language Pronunciation: Segments and Prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
 - **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*in revision*). Knowing and Feeling: The Role of Semantic Valence in Emotional Prosody Perception for L2 Chinese Learners.
 - **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (*in revision*). Anterior Temporal Lobe Mediates Associative and Taxonomic Neighborhood Effects in Lexical Processing.
-- Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*under review*). Psycholinguistic Constructs Underlying Words in Naturalistic Listening. 
+- Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*under review*). Multifaceted neural representation of words in naturalistic language. [Preprint](https://doi.org/10.48550/arXiv.2601.13297).
 
 
 ## Grants
