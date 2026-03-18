@@ -4,29 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. in the [Linguistics](https://sc.edu/study/colleges_schools/artsandsciences/linguistics/index.php) at the [University of South Carolina](https://sc.edu). My research bridges formal linguistics and cognitive neuroscience, employing experimental methods, functional Magnetic Resonance Imaging (fMRI), and High-Definition transcranial Direct Current Stimulation (HD-tDCS) to investigate language and emotion processing in native and non-native speakers. I am co-advised by Drs. [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php) and [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php). I am currently a Graduate Research Assistant in the [Aging Brain Cohort (ABC)](https://abc.sc.edu).
+Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.github.io) in the Department of Psychology at the University of South Carolina. At Feilong Lab, she uses computational methods and neuroimaging data to study individual differences in language processing. Her broader research investigate how language and emotion interact in native speakers and second language learners. Cheng holds a PhD in Linguisitcs from the University of South Carolina, an MA in Linguistics and Applied Linguistics, a BA in Humanities Science, a BEc in Finance from Wuhan University.
 
-My dissertation investigates how native and non-native speakers perceive emotional cues through semantic and prosodic channels in Mandarin Chinese words and sentences. In this tonal language, the same acoustic feature (i.e., pitch) encodes both semantics and emotional prosody. To elucidate the neural underpinnings of these processes, I use fMRI to examine whether native speakers and second language learners engage similar cognitive mechanisms when processing semantics and emotional prosody in spoken language. This work is supported by NSF Doctoral Dissertation Research Improvement Grant, University of South Carolina SPARC Graduate Research Grant, and Dr. Richard Walker Memorial Endowed Fellowship.
 
 ## News
 
-- **[Oct, 2025]** I have successufully defended my doctoral dissertation!
-- **[Aug, 2025]** Our abstract on word naming with ATL stimulation has been accepted for [SNL 2025](https://2025.neurolang.org).
-- **[Feb, 2025]** I received travel fund to present my poster on the neural processing of emotional prosody in native and non-native Chinese speakers at [HSP 38](https://hsp2025.github.io) .
-- **[Oct, 2024]** My first-authored paper on emotional prosody perception in Mandarin Chinese words and sentences has been published in [*Second Language Research*](https://doi.org/10.1177/02676583241286748).
-- **[July, 2024]** My first-authored paper examining semantic effects on the perception of emotional prosody in native and non-native Chinese speakers has been published in the special issue of [*Cognition and Emotion*](https://doi.org/10.1080/02699931.2024.2371088) on the interplay between language and emotion.
+- **[March, 2026]** Our paper has been accepted in *Neurobiology of Language*.
+- **[Oct, 2025]** I have successufully defended my doctoral dissertation "The Processing of Emotional Prosody and Semantics in Native and Non-native Chinese Speakers" under the supervision of [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php), [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), [Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php), and [Svetlana Shinkareva](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shinkareva_svetlana.php).
 
 
 ## Publications
 
-- **Xiao, C.**, & Liu, J. (2024b). The Perception of Emotional Prosody in Mandarin Chinese Words and Sentences. *Second Language Research*. 1-28. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf)
-- **Xiao, C.**, & Liu, J. (2024a). Semantic Effects on the Perception of Emotional Prosody in Native and Non-native Chinese Speakers. *Cognition and Emotion*. 1-11. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf)
+- Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (*accepted*). The Role of the Anterior Temporal Lobe in Reading: an HD-tDCS Study.
+- **Xiao, C.**, & Liu, J. (2026). The Perception of Emotional Prosody in Mandarin Chinese Words and Sentences. *Second Language Research*, *42*(1), 3-30. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf)
+- **Xiao, C.**, & Liu, J. (2025). Semantic Effects on the Perception of Emotional Prosody in Native and Non-native Chinese Speakers. *Cognition and Emotion*, *39*(7), 1542-1552. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf)
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508)
 - Liu, J., & **Xiao, C.** (2021). Tone Category Learning Should Serve Tone Word Learning: An Experiment of Integrating Pronunciation Teaching in L2 Chinese Curriculum. In Edited Volume *The Acquisition of Chinese as a Second Language Pronunciation: Segments and Prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6)
 - **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*in revision*). Knowing and Feeling: The Role of Semantic Valence in Emotional Prosody Perception for L2 Chinese Learners. [Preregistration](https://doi.org/10.17605/OSF.IO/7JTWX)
-- Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (*in revision*). The Role of the Anterior Temporal Lobe in Reading: an HD-tDCS Study. 
-- **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (*under review*). Thematic and Taxonomic Semantic Neighborhoods are Affected by Anterior Temporal Stimulation.
-- Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*manuscript available upon request*). Psycholinguistic Constructs Underlying Words in Naturalistic Listening. 
+- **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (*in revision*). Anterior Temporal Lobe Mediates Associative and Taxonomic Neighborhood Effects in Lexical Processing.
+- Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*under review*). Psycholinguistic Constructs Underlying Words in Naturalistic Listening. 
 
 
 ## Grants
