@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.github.io) in the Department of Psychology at the University of South Carolina. At Feilong Lab, she uses computational methods and neuroimaging data to study individual differences in language processing and learning. Her broader research investigates how language and emotion interact in native speakers and second language learners, with a focus on prosody. Cheng holds a PhD in Linguistics from the University of South Carolina, an MA in Linguistics and Applied Linguistics, a BA in Humanities, and a BEc in Finance from Wuhan University.
+Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.github.io) in the Department of Psychology at the University of South Carolina. At Feilong Lab, she uses computational methods and neuroimaging data to study individual differences in language processing and learning. Her broader research investigates the neural mechanisms underlying the interplay between language and emotion in native speakers and L2 learners, with a particular focus on emotional prosody. Cheng holds a PhD in Linguistics from the University of South Carolina, an MA in Linguistics and Applied Linguistics, a BA in Humanities, and a BEc in Finance from Wuhan University.
 
 
 ## News
