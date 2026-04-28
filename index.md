@@ -15,7 +15,7 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 
 ## Publications
 
-- Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (2026). The Role of the Anterior Temporal Lobe in Reading: an HD-tDCS Study. *Neurobiology of Language*. [Link](https://doi.org/10.1162/NOL.a.266)
+- Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (2026). The Role of the Anterior Temporal Lobe in Reading: an HD-tDCS Study. *Neurobiology of Language*. [Link](https://doi.org/10.1162/NOL.a.266).
 - **Xiao, C.**, & Liu, J. (2026). The Perception of Emotional Prosody in Mandarin Chinese Words and Sentences. *Second Language Research*, *42*(1), 3-30. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf).
 - **Xiao, C.**, & Liu, J. (2025). Semantic Effects on the Perception of Emotional Prosody in Native and Non-native Chinese Speakers. *Cognition and Emotion*, *39*(7), 1542-1552. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf).
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508).
