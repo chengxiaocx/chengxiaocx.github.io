@@ -9,19 +9,20 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 
 ## News
 
+- **[Jun. 2026]** Our tDCS paper on the semantic neighborhood processing has been accepted in *Cortex*.
 - **[Mar. 2026]** Our paper on the role of the anterior temporal lobe in reading has been accepted in *Neurobiology of Language*.
 - **[Oct. 2025]** I have successufully defended my doctoral dissertation "The Processing of Emotional Prosody and Semantics in Native and Non-native Chinese Speakers" under the supervision of [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php), [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), [Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php), and [Svetlana Shinkareva](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shinkareva_svetlana.php).
 
 
 ## Publications
 
+- **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (*accepted*). Anterior Temporal Lobe Mediates Associative and Taxonomic Neighborhood Effects in Lexical Processing. *Cortex*
 - Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (2026). The Role of the Anterior Temporal Lobe in Reading: an HD-tDCS Study. *Neurobiology of Language*. [Link](https://doi.org/10.1162/NOL.a.266).
 - **Xiao, C.**, & Liu, J. (2026). The Perception of Emotional Prosody in Mandarin Chinese Words and Sentences. *Second Language Research*, *42*(1), 3-30. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf).
 - **Xiao, C.**, & Liu, J. (2025). Semantic Effects on the Perception of Emotional Prosody in Native and Non-native Chinese Speakers. *Cognition and Emotion*, *39*(7), 1542-1552. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf).
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508).
 - Liu, J., & **Xiao, C.** (2021). Tone Category Learning Should Serve Tone Word Learning: An Experiment of Integrating Pronunciation Teaching in L2 Chinese Curriculum. In Edited Volume *The Acquisition of Chinese as a Second Language Pronunciation: Segments and Prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6).
 - **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (*in revision*). Knowing and Feeling: The Role of Semantic Valence in Emotional Prosody Perception for L2 Chinese Learners.
-- **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (*in revision*). Anterior Temporal Lobe Mediates Associative and Taxonomic Neighborhood Effects in Lexical Processing.
 - Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*under review*). Multifaceted neural representation of words in naturalistic language. [Preprint](https://doi.org/10.48550/arXiv.2601.13297).
 
 
