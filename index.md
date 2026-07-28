@@ -11,7 +11,7 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 
 - **[July. 2026]** Our tDCS paper on the semantic neighborhood processing has been published in [*Cortex*](https://doi.org/10.1016/j.cortex.2026.06.026).
 - **[July. 2026]** I present our work on emotional prosody and semantics interactions in the bilingual brain in [CogSci 2026](https://cognitivesciencesociety.org/cogsci-2026/).
-- **[Mar. 2026]** Our paper on the role of the anterior temporal lobe in reading has been accepted in *Neurobiology of Language*.
+- **[Mar. 2026]** Our paper on the role of the anterior temporal lobe in reading has been accepted in [*Neurobiology of Language*](https://doi.org/10.1162/NOL.a.266).
 - **[Oct. 2025]** I have successufully defended my doctoral dissertation "The Processing of Emotional Prosody and Semantics in Native and Non-native Chinese Speakers" under the supervision of [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php), [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), [Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php), and [Svetlana Shinkareva](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shinkareva_svetlana.php).
 
 
