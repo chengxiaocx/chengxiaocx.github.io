@@ -25,7 +25,7 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 - **Xiao, C.**, & Liu, J. (2025). Semantic Effects on the Perception of Emotional Prosody in Native and Non-native Chinese Speakers. *Cognition and Emotion*, *39*(7), 1542-1552. [Link](https://doi.org/10.1080/02699931.2024.2371088), [PDF](./assets/mep_AM_final.pdf).
 - Wang, B. X., Chen, S., Zhou, F., Liu, J., **Xiao, C.**, Chan, A., & Tang, T. (2024). English Prosodic Focus Marking by Cantonese Trilingual Children with and without Autism Spectrum Disorder. *Journal of Speech, Language, and Hearing Research, 67*(3), 782-801. [Link](https://doi.org/10.1044/2023_JSLHR-23-00508).
 - Liu, J., & **Xiao, C.** (2021). Tone Category Learning Should Serve Tone Word Learning: An Experiment of Integrating Pronunciation Teaching in L2 Chinese Curriculum. In Edited Volume *The Acquisition of Chinese as a Second Language Pronunciation: Segments and Prosody*. Edited by Yang, Chunsheng: Springer. [Link](https://doi.org/10.1007/978-981-15-3809-4_6).
-- Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*under review*). Multifaceted neural representation of words in naturalistic language. [Preprint](https://doi.org/10.48550/arXiv.2601.13297).
+- Yang, X., Gao, C., **Xiao, C.**, Riccardi, N., Desai, R.H. (*in revision*). Multifaceted neural representation of words in naturalistic language. [Preprint](https://doi.org/10.48550/arXiv.2601.13297).
 
 
 ## Grants
