@@ -9,16 +9,18 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 
 ## News
 
-- **[July, 2026]** Our paper on semantic valence and L2 emotional prosody perception has been accepted in *Bilingualism: Language and Cognition*.
-- **[July, 2026]** Our tDCS paper on the semantic neighborhood processing has been published in [*Cortex*](https://doi.org/10.1016/j.cortex.2026.06.026).
-- **[July, 2026]** I present our work on emotional prosody and semantics interactions in the bilingual brain in [CogSci 2026](https://cognitivesciencesociety.org/cogsci-2026/).
-- **[March, 2026]** Our paper on the role of the anterior temporal lobe in reading has been accepted in [*Neurobiology of Language*](https://doi.org/10.1162/NOL.a.266).
-- **[October, 2025]** I have successufully defended my doctoral dissertation "The Processing of Emotional Prosody and Semantics in Native and Non-native Chinese Speakers" under the supervision of [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php), [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), [Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php), and [Svetlana Shinkareva](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shinkareva_svetlana.php).
+- **[September 2026]** Our fMRI paper on the role of lexicality in emotional processing is now available as a [Preprint](https://doi.org/10.64898/2026.09.21.753217).
+- **[July 2026]** Our paper on semantic valence and L2 emotional prosody perception has been accepted in *Bilingualism: Language and Cognition*.
+- **[July 2026]** Our tDCS paper on the semantic neighborhood processing has been published in [*Cortex*](https://doi.org/10.1016/j.cortex.2026.06.026).
+- **[July 2026]** I present our work on emotional prosody and semantics interactions in the bilingual brain in [CogSci 2026](https://cognitivesciencesociety.org/cogsci-2026/).
+- **[March 2026]** Our paper on the role of the anterior temporal lobe in reading has been accepted in [*Neurobiology of Language*](https://doi.org/10.1162/NOL.a.266).
+- **[October 2025]** I have successufully defended my doctoral dissertation "The Processing of Emotional Prosody and Semantics in Native and Non-native Chinese Speakers" under the supervision of [Jiang Liu](https://sc.edu/study/colleges_schools/artsandsciences/dllc/our_people/liu_jiang.php), [Rutvik Desai](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/desai_rutvik.php), [Amit Almor](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/almor_amit.php), and [Svetlana Shinkareva](https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shinkareva_svetlana.php).
 
 
 ## Publications
 
-- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (accepted). Knowing and Feeling: The Role of Semantic Valence in Emotional Prosody Perception for L2 Chinese Learners. *Bilingualism: Language and Cognition*.
+- **Xiao, C.**, Liu, J., Zhang, Y., Lyu, W., Desai, R.H., Feilong, M. (under review). Brain Mechanisms of Lexicality in Bilingual Emotion Processing. [Preprint](https://doi.org/10.64898/2026.09.21.753217).
+- **Xiao, C.**, Liu, J., Shinkareva, S., Yang, X., Desai, R.H. (in press). Knowing and Feeling: The Role of Semantic Valence in Emotional Prosody Perception for L2 Chinese Learners. *Bilingualism: Language and Cognition*.
 - **Xiao, C.**, Arheix-Parras, S., Riccardi, N., Johari, K., Desai, R.H. (2026). Anterior Temporal Lobe Mediates Associative and Taxonomic Neighborhood Effects in Lexical Processing. *Cortex*, *203*(10), 252-265. [Link](https://doi.org/10.1016/j.cortex.2026.06.026), [PDF](./assets/tDCS_SND.pdf).
 - Arheix-Parras, S., **Xiao, C.**, Crouse, C., Riccardi, N., Johari, K., Desai, R.H. (2026). The Role of the Anterior Temporal Lobe in Reading: an HD-tDCS Study. *Neurobiology of Language*. [Link](https://doi.org/10.1162/NOL.a.266), [PDF](./assets/tDCS_WN.pdf).
 - **Xiao, C.**, & Liu, J. (2026). The Perception of Emotional Prosody in Mandarin Chinese Words and Sentences. *Second Language Research*, *42*(1), 3-30. [Link](https://doi.org/10.1177/02676583241286748), [PDF](./assets/ep_VOR.pdf).
