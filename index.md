@@ -9,7 +9,7 @@ Cheng Xiao is a Postdoctoral Fellow at the [Feilong Lab](https://feilonglab.gith
 
 ## News
 
-- **[September 2026]** Our fMRI paper on the role of lexicality in emotional processing is now available as a [Preprint](https://doi.org/10.64898/2026.09.21.753217).
+- **[September 2026]** Our fMRI paper on the role of lexicality in emotional prosody processing is now available as a [Preprint](https://doi.org/10.64898/2026.09.21.753217).
 - **[July 2026]** Our paper on semantic valence and L2 emotional prosody perception has been accepted in *Bilingualism: Language and Cognition*.
 - **[July 2026]** Our tDCS paper on the semantic neighborhood processing has been published in [*Cortex*](https://doi.org/10.1016/j.cortex.2026.06.026).
 - **[July 2026]** I present our work on emotional prosody and semantics interactions in the bilingual brain in [CogSci 2026](https://cognitivesciencesociety.org/cogsci-2026/).
